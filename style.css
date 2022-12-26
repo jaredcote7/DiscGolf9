@@ -849,6 +849,11 @@ html {
     width: 100%;
     right: -100%;
   }
+    
+    .section-heading {
+        font-size: 5rem;
+        line-height: 3rem;
+    }
    
 
   .change .hamburger-menu {
