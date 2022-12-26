@@ -835,7 +835,7 @@ html {
   }
     
   .banner h1 {
-     font-size: 4.2rem;
+     font-size: 3.9rem;
      line-height: 8rem;
      font-weight: 600;
     }
@@ -849,11 +849,18 @@ html {
     width: 100%;
     right: -100%;
   }
+   
 
   .change .hamburger-menu {
     right: 38rem;
   }
-
+    
+    
+    .cards-wrapper {
+        margin-top: -15rem;
+    }
+          
+    
   .service {
     width: 30rem;
   }
