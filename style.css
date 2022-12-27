@@ -851,10 +851,11 @@ html {
     right: -100%;
   }
     
-    .section-heading {
-        font-size: 5rem;
-        line-height: 3rem;
-    }
+  .section-heading {
+      font-size: 4rem;
+      line-height: 6rem;
+      font-weight: 600;
+  }
    
 
   .change .hamburger-menu {
