@@ -875,5 +875,21 @@ html {
   .footer {
     height: 18rem;
   }
+    
+    .service:nth-child(1) {
+        width: 40rem;
+    }
+    .service:nth-child(2) {
+        width: 40rem;
+    }
+    .service:nth-child(3) {
+        width: 40rem;
+    }
+    .service:nth-child(4) {
+    width: 40rem;
+    }
+    .service:nth-child(5) {
+    width: 40rem;
+    }
 }
 
